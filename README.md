@@ -1,5 +1,6 @@
 - 👋 Hello, my name is Zenen Delgado of OFICIMAX
 - 👀 Freelance Html - Css - JavaScript - Glide Apps
+- Next.JS16 - PostgreSql - Node.JS -TypeScript -Tailwind4
 - 🌱 Junior Programmer
 - 💞️ I’m looking to collaborate on business systems
 - Building software with love from Guayaquil to the world
